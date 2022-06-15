@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My_blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-06-14T14:57:52.388Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>65498</title>
+    <link href="http://example.com/post/8495.html"/>
+    <id>http://example.com/post/8495.html</id>
+    <published>2022-06-14T14:30:14.513Z</published>
+    <updated>2022-06-14T14:57:52.388Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到飞哥的小博客，世界这么大，还是遇见你！&lt;/p&gt;
+&lt;h2 id=&quot;芜湖，起飞！&quot;&gt;&lt;a href=&quot;#芜湖，起飞！&quot; class=&quot;headerlink&quot; title=&quot;芜湖，起飞！&quot;&gt;&lt;/a&gt;芜湖，起飞！&lt;/h2&gt;&lt;h3 id=&quot;放羊人&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>世界，你好</title>
+    <link href="http://example.com/post/bcf5.html"/>
+    <id>http://example.com/post/bcf5.html</id>
+    <published>2022-06-13T13:52:21.898Z</published>
+    <updated>2022-06-14T14:57:52.389Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到飞哥的小博客，世界这么大，还是遇见你！&lt;/p&gt;
+&lt;h2 id=&quot;芜湖，起飞！&quot;&gt;&lt;a href=&quot;#芜湖，起飞！&quot; class=&quot;headerlink&quot; title=&quot;芜湖，起飞！&quot;&gt;&lt;/a&gt;芜湖，起飞！&lt;/h2&gt;&lt;h3 id=&quot;放羊人&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
