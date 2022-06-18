@@ -147,7 +147,7 @@ function bot_ui_ini() {
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
-                    content: "那么，相遇就是缘分，赏个赞吧 ^_^"
+                    content: "要开开心心，要积极阳光，要热爱生活，更要好好爱自己^_^"
                 })
             })
         } 
